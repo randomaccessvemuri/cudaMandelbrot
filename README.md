@@ -16,3 +16,7 @@ You need OpenCV and CUDA toolkit (obviously) to compile this code. The CMakeList
 
 The code demonstrates an **improvement of 250-300x** over the serial CPU version of the code, which may be more significant as the input size grows!
 
+## Sample output
+
+![Sample output](resources/gpuRender.jpg)
+
