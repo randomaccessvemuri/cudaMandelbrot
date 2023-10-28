@@ -18,5 +18,5 @@ The code demonstrates an **improvement of 250-300x** over the serial CPU version
 
 ## Sample output
 
-![Sample output](resources/gpuRender.jpg)
+![Sample output](./resources/gpuRender.jpg)
 
